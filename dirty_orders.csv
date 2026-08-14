@@ -1,0 +1,22 @@
+order_id,customer_id,order_date,product_category,quantity,unit_price,delivery_days,status
+O1001,C001,2026-01-03,Electronics,1,15900.00,3,Failed
+O1002,C002,2026/01/05, office supplies ,4,120.00,8,Failed
+O1003,C003,06-01-2026,FURNITURE,1,8900.00,7,Succeeded
+O1004, C001 ,2026-01-10,Office Supplies,2,350.00,10,Succeeded
+O1005,c004,2026-01-12,electronics,2,1290.00,5,Succeeded
+O1006,C005,2026-01-14,Furniture,1,4500.00,,Failed
+O1007,C006,2026-01-18,Office Supplies,10,45.00,2,Succeeded
+O1007,C006,2026-01-18,Office Supplies,10,45.00,2,Succeeded
+O1008,C007,2026-01-21,Electronics,1,"25,900.00",12,Refunded
+O1009,C008,2026-01-23,Furniture,two,3200.00,6,Succeeded
+O1010,C002,2026-01-27,Electronics,3,not_available,4,Succeeded
+O1011,C003,2026-02-01,,5,85.00,,Refunded
+O1012,,2026-02-04,Furniture,1,7500.00,9,Succeeded
+O1013,C005,invalid_date,Electronics,2,2450.00,7,Succeeded
+O1014,C006,2026-02-11,Office Supplies,-3,199.00,1,Succeeded
+O1015,C007,2026-02-15,Furniture,1,11900.00,15,Succeeded
+O1016,C008,2026-02-19,Electronics,1,3200.00,-2,Refunded
+O1017,C001,2026-02-22, furniture ,2,2800.00,8,Succeeded
+O1018,C003,2026-02-25,ELECTRONICS,1,1890.00,6,Succeeded
+O1019,C005,2026-03-02,Office supplies,8,75.00,3,Succeeded
+O1020,C008,2026-03-05,Furniture,1,5600.00,,Succeeded

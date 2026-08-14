@@ -1,0 +1,9 @@
+customer_id,customer_name,segment,city,region
+C001,Anan Trading,Corporate,Bangkok,Central
+C002,Boonmee Store,Small Business,Chiang Mai,North
+C003,Chalida Home,Consumer,Khon Kaen,Northeast
+C004,Dee Digital,Corporate,Bangkok,Central
+C005,Ekamai Living,Consumer,Chonburi,East
+C006,Fah Office,Small Business,Nakhon Ratchasima,Northeast
+C007,Green Market,Consumer,Phuket,South
+C008,Horizon Solutions,Corporate,Nonthaburi,Central
