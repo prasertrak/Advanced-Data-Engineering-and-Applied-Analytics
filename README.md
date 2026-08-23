@@ -1,4 +1,4 @@
-# advanced data engineering and applied analytics
+# Advanced data engineering and applied analytics
 
 This repository is for code examples and coding workshops.
 
