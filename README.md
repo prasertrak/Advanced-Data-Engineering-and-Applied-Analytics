@@ -1,4 +1,5 @@
-This repository is for code examples and coding workshops of #advanced data engineering and applied analytics course#.
+#advanced data engineering and applied analytics cours
+This repository is for code examples and coding workshops
 
 *Consist of:*
 * **Module 1:** Modern Enterprise Data Architectures
